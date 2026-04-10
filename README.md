@@ -9,7 +9,7 @@ Building production systems • Solving ambiguous problems • Shipping reliable
 
 - Full Stack Engineer Intern at **Richpanel** (customer-facing systems)
 - Experience with **state-heavy workflows, APIs, and performance**
-- Coding platform ratings (LeetCode 1677, CodeChef Top 1%)
+- Coding platform ratings (LeetCode 1778, CodeChef Top 1%)
 - Looking for **SDE Intern / New Grad** roles
 
 📫 **devanshkhare11072004@gmail.com**
