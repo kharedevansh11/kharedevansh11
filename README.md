@@ -7,10 +7,9 @@ Software Engineer • Full Stack (React, TypeScript, GraphQL, Node.js) • Stron
 Building production systems • Solving ambiguous problems • Shipping reliable software
 </p>
 
-- Full Stack Engineer Intern at **Richpanel** (customer-facing systems)
+- Full Stack Engineer at **Richpanel** (customer-facing systems)
 - Experience with **state-heavy workflows, APIs, and performance**
 - Coding platform ratings (LeetCode 1778, CodeChef Top 1%)
-- Looking for **Software Engineer** roles
 
 📫 **devanshkhare11072004@gmail.com**
 
